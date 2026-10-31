@@ -3,13 +3,17 @@
 > An elegant, production-grade artist portfolio and performance schedule built with WordPress and Elementor.  
 > 🌐 **Live Website:** [ioanaugustinhotea.com](https://ioanaugustinhotea.com)
 
----
-
 ## 📸 Visual Showcase
 
-| Desktop Experience | Mobile Experience |
+### Desktop Experience
+| Homepage View | Schedule / Biography View |
 | :---: | :---: |
-| ![Desktop View](screenshots/desktop-1.png,screenshots/desktop-2.png) | ![Mobile View](screenshots/mobile-2.png) |
+| ![Desktop View 1](screenshots/desktop-1.png) | ![Desktop View 2](screenshots/desktop-2.png) |
+
+### Mobile Experience
+| Mobile Layout |
+| :---: |
+| ![Mobile View](screenshots/mobile.png) |
 
 ---
 

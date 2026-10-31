@@ -11,9 +11,9 @@
 | ![Desktop View 1](screenshots/desktop-1.png) | ![Desktop View 2](screenshots/desktop-2.png) |
 
 ### Mobile Experience
-| Mobile Layout |
-| :---: |
-| ![Mobile View](screenshots/mobile.png) |
+| Mobile Layout | Schedule/Contact View |
+| :---: | :--: |
+| ![Mobile View 1](screenshots/mobile-2.png) | ![Mobile View 2](screenshots/mobile-1.png) |
 
 ---
 

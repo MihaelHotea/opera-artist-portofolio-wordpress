@@ -9,7 +9,7 @@
 
 | Desktop Experience | Mobile Experience |
 | :---: | :---: |
-| ![Desktop View](screenshots/desktop-1.png) | ![Mobile View](screenshots/mobile-2.png) |
+| ![Desktop View](screenshots/desktop-1.png,screenshots/desktop-2.png) | ![Mobile View](screenshots/mobile-2.png) |
 
 ---
 
